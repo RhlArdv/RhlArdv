@@ -5,8 +5,8 @@
 - 🛡️ I’m currently learning **Cyber Security**
 - 🎮 I like to play game
 - 📫 Let's connect with me:
-  - Dribble: [Rhlardv](https://dribbble.com/rhlardv)
+  - Dribble: [Rahul Ardiva](https://dribbble.com/rhlardv)
   - Instagram: [@c.cauull](https://www.instagram.com/c.cauull)
-  - LinkedIn: [Hul](https://twitter.com/rhlardv)
+  - LinkedIn: [Rahul Ardiva](https://twitter.com/rhlardv)
   - Blogger: [Teknologi Game](https://www.gambarponsel.com)
   - Web Portofolio : [rhlardv.github.io](https://rhlardv.github.io/)
