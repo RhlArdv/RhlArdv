@@ -7,6 +7,6 @@
 - 📫 Let's connect with me:
   - Dribble: [Rahul Ardiva](https://dribbble.com/rhlardv)
   - Instagram: [@c.cauull](https://www.instagram.com/c.cauull)
-  - LinkedIn: [Rahul Ardiva](https://twitter.com/rhlardv)
+  - Twitter: [Rahul Ardiva](https://twitter.com/rhlardv)
   - Blogger: [Teknologi Game](https://www.gambarponsel.com)
   - Web Portofolio : [rhlardv.github.io](https://rhlardv.github.io/)
