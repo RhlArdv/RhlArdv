@@ -9,4 +9,4 @@
   - Instagram: [@c.cauull](https://www.instagram.com/c.cauull)
   - LinkedIn: [Hul](https://twitter.com/rhlardv)
   - Blogger: [Teknologi Game](https://www.gambarponsel.com)
-  #- Web Portofolio : [rhlardv.github.io](https://rhlardv.github.io/)
+  - Web Portofolio : [rhlardv.github.io](https://rhlardv.github.io/)
