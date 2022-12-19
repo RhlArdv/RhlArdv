@@ -1,6 +1,6 @@
 ### Hi there, I'm Rahul Ardiva Luthfi👋
 
-- 🎨 I’m currently learning on **UI/UX Designer**
+- 🎨 I’m currently working on **Blogger**
 - 💻 I’m currently learning **Backend Developer**
 - 🛡️ I’m currently learning **Cyber Security**
 - 🎮 I like to play game
