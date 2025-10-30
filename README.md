@@ -6,7 +6,6 @@
 - 🎮 I like to play game
 - 📫 Let's connect with me:
   - LinkedIn: [Rahul Ardiva Luthfi](https://www.linkedin.com/in/rahul-ardiva-luthfi)
-  - Instagram: [@c.cauull](https://www.instagram.com/rhlardv)
-  - Twitter: [Rahul Ardiva](https://twitter.com/rhlardv)
+  - Instagram: [@rhlardv](https://www.instagram.com/rhlardv)
   - Blogger: [Teknologi Game](https://www.gambarponsel.com)
   - Web Portofolio : [rhlardv.github.io](https://rhlardv.github.io/)
