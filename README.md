@@ -5,5 +5,4 @@
 - 📫 Let's connect with me:
   - LinkedIn: [Rahul Ardiva Luthfi](https://www.linkedin.com/in/rahul-ardiva-luthfi)
   - Instagram: [@rhlardv](https://www.instagram.com/rhlardv)
-  # - Blogger: [Teknologi Game](https://www.gambarponsel.com)
   - Web Portofolio : [rhlardv.github.io](https://rhlardv.github.io/)
